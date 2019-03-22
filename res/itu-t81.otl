@@ -1,0 +1,19 @@
+0 1 1 Scope 
+0 1 2 Normative references
+0 1 3 Definitions, abbreviations and symbols 
+0 12 4 General 
+0 23 5 Interchange format requirements 
+0 23 6 Encoder requirements 
+0 23 7 Decoder requirements 
+0 24 Annex A – Mathematical definitions
+0 31 Annex B – Compressed data formats
+0 50 Annex C – Huffman table specification
+0 54 Annex D – Arithmetic coding 
+0 77 Annex E – Encoder and decoder control procedures 
+0 87 Annex F – Sequential DCT-based mode of operation
+0 119 Annex G – Progressive DCT-based mode of operation
+0 132 Annex H – Lossless mode of operation 
+0 137 Annex J – Hierarchical mode of operation
+0 143 Annex K – Examples and guidelines
+0 179 Annex L – Patents
+0 181 Annex M – Bibliography
